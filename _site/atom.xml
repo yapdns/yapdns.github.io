@@ -4,7 +4,7 @@
  <title>YAPDNS</title>
  <link href="http://yapdns.github.io/atom.xml" rel="self"/>
  <link href="http://yapdns.github.io/"/>
- <updated>2016-08-17T23:07:01+05:30</updated>
+ <updated>2016-08-17T23:26:19+05:30</updated>
  <id>http://yapdns.github.io</id>
  <author>
    <name>Akshay Aurora</name>
@@ -19,11 +19,11 @@
    <id>http://yapdns.github.io/2016/08/17/introducing-yapdns</id>
    <content type="html">&lt;p&gt;This summer I have been working on YAPDNS - Yet Another Passive DNS System.&lt;/p&gt;
 
-&lt;h2&gt;How does YAPDNS work?&lt;/h2&gt;
+&lt;h2 id=&quot;how-does-yapdns-work&quot;&gt;How does YAPDNS work?&lt;/h2&gt;
 
-&lt;h3&gt;YAPDNS Client&lt;/h3&gt;
+&lt;h3 id=&quot;yapdns-client-githubhttpsgithubcomyapdnsyapdnsbeat&quot;&gt;YAPDNS Client [&lt;a href=&quot;https://github.com/yapdns/yapdnsbeat&quot;&gt;Github&lt;/a&gt;]&lt;/h3&gt;
 
-&lt;h3&gt;YAPDNS Application&lt;/h3&gt;
+&lt;h3 id=&quot;yapdns-application-githubhttpsgithubcomyapdnsyapdns-app&quot;&gt;YAPDNS Application [&lt;a href=&quot;https://github.com/yapdns/yapdns-app&quot;&gt;Github&lt;/a&gt;]&lt;/h3&gt;
 </content>
  </entry>
  

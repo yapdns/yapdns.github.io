@@ -7,7 +7,7 @@ This summer I have been working on YAPDNS - Yet Another Passive DNS System.
 
 ## How does YAPDNS work?
 
-### YAPDNS Client
+### YAPDNS Client [[Github](https://github.com/yapdns/yapdnsbeat)]
 
 
-### YAPDNS Application
+### YAPDNS Application [[Github](https://github.com/yapdns/yapdns-app)]

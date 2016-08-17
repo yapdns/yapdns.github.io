@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>YAPDNS</title>
+ <link href="http://yapdns.github.io/atom.xml" rel="self"/>
+ <link href="http://yapdns.github.io/"/>
+ <updated>2016-08-17T22:54:07+05:30</updated>
+ <id>http://yapdns.github.io</id>
+ <author>
+   <name>Akshay Aurora</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Introducing YAPDNS</title>
+   <link href="http://yapdns.github.io/2016/08/17/introducing-yapdns/"/>
+   <updated>2016-08-17T00:00:00+05:30</updated>
+   <id>http://yapdns.github.io/2016/08/17/introducing-yapdns</id>
+   <content type="html">&lt;p&gt;This summer I have been working on YAPDNS - Yet Another Passive DNS System.&lt;/p&gt;
+
+&lt;h2&gt;How does YAPDNS work?&lt;/h2&gt;
+
+&lt;h3&gt;YAPDNS Client&lt;/h3&gt;
+
+&lt;h3&gt;YAPDNS Application&lt;/h3&gt;
+</content>
+ </entry>
+ 
+
+</feed>

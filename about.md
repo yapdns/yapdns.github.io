@@ -3,6 +3,9 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  More details here soon!
-</p>
+The YAPDNS project is current being developed by -
+
+- [Akshay Aurora](https://github.com/iakshay)
+- [Pietro Delsante](https://github.com/pdelsante)
+- [Fedele Mantuano](https://github.com/fedelemantuano)
+- [Andrea De Pasquale](https://github.com/adepasquale)
